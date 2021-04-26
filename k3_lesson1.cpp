@@ -8,8 +8,6 @@
 #include <iomanip>
 #include <algorithm>
 
-
-
 struct Person
 {
     Person() {};
@@ -125,7 +123,6 @@ public:
         if (find_record != phoneBook.end())
             find_record->second = newNumber;
     }
-
 };
 
 
