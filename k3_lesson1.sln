@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "k3_lesson1", "k3_lesson1.vcxproj", "{8CF707AC-ABBC-4726-B392-F1A7C02CE0F9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08AAAFEB-7E8D-496F-B74B-272E21DDB418}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\PhoneBook.txt = ..\..\..\PhoneBook.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
